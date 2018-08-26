@@ -1,0 +1,8 @@
+#Unwanted file types
+*.sln
+*.csproj
+
+#Unwanted dirs
+Project/Library
+Project/Temp
+Project/.vs
