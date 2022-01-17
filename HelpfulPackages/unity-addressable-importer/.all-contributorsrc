@@ -1,0 +1,87 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "favoyang",
+      "name": "Favo Yang",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/125390?v=4",
+      "profile": "http://littlebigfun.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AlkisFortuneFish",
+      "name": "AlkisFortuneFish",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43749706?v=4",
+      "profile": "https://github.com/AlkisFortuneFish",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "danilonishi",
+      "name": "Danilo Nishimura",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2972924?v=4",
+      "profile": "http://www.insanegames.com.br",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "K-Dark",
+      "name": "K-Dark",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/44504098?v=4",
+      "profile": "https://github.com/K-Dark",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "caochao",
+      "name": "caochao",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1911170?v=4",
+      "profile": "http://www.cnblogs.com/tudas",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Haruma-K",
+      "name": "Haruki Yano",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/47441314?v=4",
+      "profile": "https://light11.hatenadiary.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "eAi",
+      "name": "Edwin Lyons",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/123872?v=4",
+      "profile": "http://www.fireboltgames.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Mefodei",
+      "name": "Mefodei",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7457166?v=4",
+      "profile": "http://greenbuttongames.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "unity-addressable-importer",
+  "projectOwner": "favoyang",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
