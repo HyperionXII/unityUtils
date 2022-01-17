@@ -1,9 +1,7 @@
-// Unity Utils Readme
-// Collection of handy utilities and packages when devolping inside Unity
-//-----------------------------------------------
+### Unity Utils Readme
+### Collection of handy utilities and packages when devolping inside Unity
 
-
-###Table of Contents
+### Table of Contents
 
 * Unity Addressable Importer 
 	- [repo can be found here](https://github.com/favoyang/unity-addressable-importer)
