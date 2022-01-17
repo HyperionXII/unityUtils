@@ -1,5 +1,5 @@
-### Unity Utils Readme
-# Collection of handy utilities and packages when devolping inside Unity
+# Unity Utils Readme
+### Collection of handy utilities and packages when devolping inside Unity
 
 ### Table of Contents
 
