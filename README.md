@@ -6,7 +6,7 @@
 ###Table of Contents
 
 * Unity Addressable Importer 
-	- [repo can be foudn here](https://github.com/favoyang/unity-addressable-importer)
+	- [repo can be found here](https://github.com/favoyang/unity-addressable-importer)
 	- Tool for automatically adding assets to addressable groups when imported
 * xNode
 	- [repo can be found here](https://github.com/Siccity/xNode)
