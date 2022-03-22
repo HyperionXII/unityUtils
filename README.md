@@ -14,6 +14,9 @@
 * UniTask
 	- [repo can be found here](https://github.com/Cysharp/UniTask)
 	- Provides an efficient allocation free async/await integration for Unity
+* Unity UI Extensions
+	- [repo can be found here](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/wiki/Home)
+	- Extensions project for cool & bespoke UI implementaitons 
 * xNode
 	- [repo can be found here](https://github.com/Siccity/xNode)
 	- Framework for creatig visually scripted tools via bespoke node creation
