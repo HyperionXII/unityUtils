@@ -3,6 +3,9 @@
 
 ### Table of Contents
 
+* Easy Credits
+	- [itch.io Unity package](https://oneratgames.itch.io/easycredits) 
+	- Package for easily implementing credits into your game
 * Unity Addressable Importer 
 	- [repo can be found here](https://github.com/favoyang/unity-addressable-importer)
 	- Tool for automatically adding assets to addressable groups when imported
