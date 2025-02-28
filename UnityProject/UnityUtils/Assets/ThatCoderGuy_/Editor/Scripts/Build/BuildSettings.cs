@@ -10,12 +10,14 @@ namespace TCG.Build
     {
         private const string k_resourcesPath = "BuildSettings";
 
+        [SerializeField] private string _versionNumber = "0.0.1";
         [SerializeField] private string _buildPath = "../Builds";
         [SerializeField] private string[] _scenePaths;
 
         [SerializeField] private BuildOptions _devOptions;
         [SerializeField] private BuildOptions _releaseOptions;
 
+        public string VersionNumber => _versionNumber;
         public string BuildPath => _buildPath;
         public string[] ScenePaths => _scenePaths;
         
