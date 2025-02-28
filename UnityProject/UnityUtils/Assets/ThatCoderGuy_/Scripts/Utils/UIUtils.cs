@@ -10,7 +10,7 @@ namespace TCG.Utils
         /// Go through all the child transforms of an object and call ForceRebuildLayoutImmediate on any RectTransform components found
         /// </summary>
         /// <typeparam name="T">Type of the singleton</typeparam>
-        public void ForceRebuildFromChildBackwards(this Transform transformToRebuild )
+        public static void ForceRebuildFromChildBackwards(this Transform transformToRebuild )
         {
             foreach ( Transform child in transformToRebuild )
             {
